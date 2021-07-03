@@ -1,0 +1,1 @@
+web: gunicorn VanillaJS_Django_ToDoApp.wsgi --log-file -
